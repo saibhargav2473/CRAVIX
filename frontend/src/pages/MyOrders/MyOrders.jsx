@@ -18,7 +18,7 @@ useEffect(()=>{
     if(token){
         fetchOrders();
     }
-},[token])
+}, [token])
 
   return (
     <div className='my-orders'>
