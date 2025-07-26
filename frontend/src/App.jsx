@@ -8,7 +8,7 @@ import Footer from './components/Footer/Footer'
 import { useState } from 'react'
 import LoginPopup from './components/LoginPopup/LoginPopup'
 import Verify from './pages/Verify/Verify'
-import MyOrders from './pages/Myorders/MyOrders'
+import MyOrders from './pages/MyOrders/MyOrders'
 
 
 const App = () => {
